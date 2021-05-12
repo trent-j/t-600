@@ -17,7 +17,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: migratedme1
+  IMAGE_NAME: migrateme1
 
 jobs:
   # Push image to GitHub Packages.
