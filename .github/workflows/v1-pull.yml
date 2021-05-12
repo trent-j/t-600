@@ -1,4 +1,4 @@
-name: v1-pull
+name: v1 Pull
 
 on:
   schedule:
